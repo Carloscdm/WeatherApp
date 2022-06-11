@@ -1,5 +1,13 @@
 //https://www.youtube.com/watch?v=QGzgE7jWDxk
 
+/**
+ * TO DO:
+ * - Guardar las últimas ciudades buscadas y mostrar las 4 últimas en la lista
+ * - Hacer mas suave la transición de imágenes
+ * - Buscar y añadir gif o videos de climas como fondos
+ * - Traducir y comentar todo el código
+ */
+
 const key = "9c791dde86e24a9d9ea43030221106";
 //DOM
 const docu = document;
